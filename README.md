@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## I'm Atharva, a Product Designer who codes 
+
+
 <!--
 **atharvapatil/atharvapatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
