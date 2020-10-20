@@ -2,10 +2,10 @@
 ### a swiss army knife interaction designer & technologist currently designing at Atlas AI.
 
 
-### Currently
-- Working at [Atlas AI](https://www.atlasai.co/) as a Product Designer
+### Working
+- at [Atlas AI](https://www.atlasai.co/) as a Product Designer
 - Exploring grids & animations on the web.
-
+- Investigating AI & it's evolving role in society. 
 
 
 ### Recent Work
@@ -17,8 +17,10 @@
 ### All work
 - [Portfolio](https://atharvapatil.github.io/)
 
+
 ### Reach out
 - [Twitter](https://twitter.com/patil4president)
+- [LinkedIn](https://www.linkedin.com/in/atharvaabhaypatil/)
 
 
 <!--
