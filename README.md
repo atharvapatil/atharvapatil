@@ -19,7 +19,7 @@
 
 
 ### Reach out
-- [Twitter](https://twitter.com/patil4president)
+- [Twitter](https://twitter.com/_atharvapatil)
 - [LinkedIn](https://www.linkedin.com/in/atharvaabhaypatil/)
 
 
