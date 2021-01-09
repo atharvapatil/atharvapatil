@@ -9,6 +9,7 @@
 
 
 ### Recent Work
+- [Reading nook](https://jabberwocky1871.netlify.app/) A gatsby powered site to track my reading habits.
 - [Don't touch your face](https://atharvapatil.github.io/corona-go/) A tool that reminds you when you are touching your face
 - [Sit Straight!](https://atharvapatil.github.io/teachable-browser/) A posture classifier that blurs out Youtube videos if users don’t sit straight [Featured at CHI 2020]
 - [Centaur Hypothesis](https://vimeo.com/425262774) Master's thesis on taking an ethical, humane & holistic approach in designing an algorithm filled future.
