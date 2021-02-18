@@ -1,5 +1,5 @@
 # Hi there, I'm Atharva 👋 
-### a swiss army knife interaction designer & technologist currently designing at Atlas AI.
+### a swiss army knife interaction designer & technologist bringing AI to the interface at Atlas AI.
 
 
 ### Working
