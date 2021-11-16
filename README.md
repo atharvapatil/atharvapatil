@@ -16,7 +16,7 @@
 
 
 ### All work
-- [Portfolio](https://atharvapatil.github.io/)
+- [Portfolio](https://atharvapatil.space/)
 
 
 ### Reach out
