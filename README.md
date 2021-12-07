@@ -4,8 +4,6 @@
 
 ### Working
 - at [Atlas AI](https://www.atlasai.co/) as a Product Designer
-- Exploring the Augmented reality by making dumb instagram filters.
-- Investigating AI & it's evolving role in society. 
 
 
 ### Recent Work
