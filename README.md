@@ -4,7 +4,7 @@ a swiss army knife product designer.
 
 
 ### Working
-Currntly leading design at [Atlas AI](https://www.atlasai.co/) building geospatial demand intelligence tools 
+Currently leading design at [Atlas AI](https://www.atlasai.co/) building geospatial demand intelligence tools 
 
 ### All work
 [Portfolio](https://atharvapatil.space/)
