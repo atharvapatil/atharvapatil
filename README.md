@@ -1,13 +1,14 @@
 # Atharva Patil
-### a swiss army knife product designer. 
+
+a swiss army knife product designer. 
 
 
 ### Working
 Currntly leading design at [Atlas AI](https://www.atlasai.co/) building geospatial demand intelligence tools 
 
 ### All work
-- [Portfolio](https://atharvapatil.space/)
+[Portfolio](https://atharvapatil.space/)
 
 ### Reach out
-- [Twitter](https://twitter.com/_atharvapatil)
-- [LinkedIn](https://www.linkedin.com/in/atharvaabhaypatil/)
+[Twitter](https://twitter.com/_atharvapatil)
+[LinkedIn](https://www.linkedin.com/in/atharvaabhaypatil/)
