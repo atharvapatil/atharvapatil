@@ -10,5 +10,5 @@ Currntly leading design at [Atlas AI](https://www.atlasai.co/) building geospati
 [Portfolio](https://atharvapatil.space/)
 
 ### Reach out
-[Twitter](https://twitter.com/_atharvapatil)
-[LinkedIn](https://www.linkedin.com/in/atharvaabhaypatil/)
+- [Twitter](https://twitter.com/_atharvapatil)
+- [LinkedIn](https://www.linkedin.com/in/atharvaabhaypatil/)
